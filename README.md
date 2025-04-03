@@ -6,6 +6,15 @@
 </p>
 
 ---
+## 🛩 **Interested in Coding** 😁  
+## 📚 **Still Studying...** 😄  
+## ⚡ **Fun Fact: I am a Noob 😌**  
+## 💭 **Currently Trying to Conquer the World of Code, One Bug at a Time** 🐛  
+## 🎮 **Hobbies Include: Coding, Coffee, and Avoiding Social Interactions** ☕  
+## 🏅 **Still Waiting for My First "Hello World" in Space** 🌌  
+## 🤖 **On a Mission to Break Things and Fix Them** 🔨
+
+---
 
 ## 🎨 **Tech Stack & Skills**
 ### **💻 Programming Languages**
@@ -54,6 +63,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tharshihecker)
 
 ---
+
+
 
 ### 🎉 **Thanks for Visiting!**
 <p align="center">
