@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color:#ff6600">Tharshihecker</span>! 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#ff6600">tharshihecker</span>! 👋</h1>
 <h3 align="center">🚀 Passionate Developer | 🎨 UI Designer | 💡 Tech Enthusiast</h3>
 
 <p align="center">
@@ -35,23 +35,23 @@
 
 ## 🚀 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharshihecker&show_icons=true&theme=radical" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharshihecker&theme=radical" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharshihecker&show_icons=true&theme=radical" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharshihecker&theme=radical" width="450px">
 </div>
 
 ---
 
 ## 📊 **Most Used Languages**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharshihecker&layout=compact&theme=radical" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharshihecker&layout=compact&theme=radical" width="450px">
 </div>
 
 ---
 
 ## ✨ **Connect with Me**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharshhecker)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Tharshhecker)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tharshhecker)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharshihecker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharshihecker)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tharshihecker)
 
 ---
 
@@ -59,5 +59,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500px">
 </p>
-
-
