@@ -36,7 +36,7 @@
 ## 🚀 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tharshihecker&show_icons=true&theme=radical" width="450px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharshhecker&theme=radical" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharshihecker&theme=radical" width="450px">
 </div>
 
 ---
