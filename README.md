@@ -57,5 +57,7 @@
 
 ### 🎉 **Thanks for Visiting!**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500px">
 </p>
+
+
