@@ -6,6 +6,7 @@
 </p>
 
 ---
+
 ## 🛩 **Interested in Coding** 😁  
 ## 📚 **Still Studying...** 😄  
 ## ⚡ **Fun Fact: I am a Noob 😌**  
@@ -17,6 +18,7 @@
 ---
 
 ## 🎨 **Tech Stack & Skills**
+
 ### **💻 Programming Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,6 +46,7 @@
 ---
 
 ## 🚀 **GitHub Stats**
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tharshihecker&show_icons=true&theme=radical" width="450px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharshihecker&theme=radical" width="450px">
@@ -52,22 +55,63 @@
 ---
 
 ## 📊 **Most Used Languages**
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharshihecker&layout=compact&theme=radical" width="450px">
 </div>
 
 ---
 
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tharshihecker&theme=radical&no-bg=true&no-frame=true&column=4" />
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharshihecker&theme=radical" />
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  <img src="https://github.com/tharshihecker/tharshihecker/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 📜 **Quote of the Day**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 👀 **Profile Views**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tharshihecker&color=blueviolet&style=flat" alt="tharshihecker" />
+</p>
+
+---
+
 ## ✨ **Connect with Me**
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharshihecker)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharshihecker)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tharshihecker)
 
 ---
 
-
-
 ### 🎉 **Thanks for Visiting!**
+
 <p align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500px">
 </p>
