@@ -76,13 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharshihecker&theme=radical" />
 </div>
 
----
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tharshihecker/tharshihecker/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
