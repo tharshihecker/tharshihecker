@@ -81,7 +81,7 @@
 ## 🐍 **Contribution Snake**
 
 <div align="center">
-  <img src="https://github.com/tharshihecker/tharshihecker/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/tharshihecker/tharshihecker/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
