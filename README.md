@@ -45,6 +45,21 @@
 
 ---
 
+## 📊 **Tharshi's GitHub Stats**
+
+C  
+Total Stars Earned: <!--stars-->15<!--stars-->
+
+Total Commits (2025): <!--commits-->55<!--commits-->
+
+Total PRs: <!--prs-->0<!--prs-->
+
+Total Issues: <!--issues-->0<!--issues-->
+
+Contributed to (last year): <!--contrib-->0<!--contrib-->
+
+---
+
 ## 🚀 **GitHub Stats**
 
 <div align="center">
