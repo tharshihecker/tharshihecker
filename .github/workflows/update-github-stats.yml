@@ -1,0 +1,47 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # runs every Sunday at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch GitHub stats
+        id: stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          username=${{ github.actor }}
+
+          stars=$(curl -s "https://api.github.com/users/$username/repos?per_page=100" | jq '[.[].stargazers_count] | add')
+          commits=$(curl -s "https://api.github.com/search/commits?q=author:$username" -H "Accept: application/vnd.github.cloak-preview" | jq '.total_count')
+          prs=$(curl -s "https://api.github.com/search/issues?q=author:$username+type:pr+is:merged" | jq '.total_count')
+          issues=$(curl -s "https://api.github.com/search/issues?q=author:$username+type:issue" | jq '.total_count')
+          contrib=$(curl -s "https://api.github.com/users/$username/repos?per_page=100" | jq 'length')
+
+          echo "stars=$stars" >> $GITHUB_OUTPUT
+          echo "commits=$commits" >> $GITHUB_OUTPUT
+          echo "prs=$prs" >> $GITHUB_OUTPUT
+          echo "issues=$issues" >> $GITHUB_OUTPUT
+          echo "contrib=$contrib" >> $GITHUB_OUTPUT
+
+      - name: Update README stats
+        run: |
+          sed -i -E "s/(Total Stars Earned: <!--stars-->)[0-9]+(<!--stars-->)/\1${{ steps.stats.outputs.stars }}\2/" README.md
+          sed -i -E "s/(Total Commits \(2025\): <!--commits-->)[0-9]+(<!--commits-->)/\1${{ steps.stats.outputs.commits }}\2/" README.md
+          sed -i -E "s/(Total PRs: <!--prs-->)[0-9]+(<!--prs-->)/\1${{ steps.stats.outputs.prs }}\2/" README.md
+          sed -i -E "s/(Total Issues: <!--issues-->)[0-9]+(<!--issues-->)/\1${{ steps.stats.outputs.issues }}\2/" README.md
+          sed -i -E "s/(Contributed to \(last year\): <!--contrib-->)[0-9]+(<!--contrib-->)/\1${{ steps.stats.outputs.contrib }}\2/" README.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update GitHub stats in README"
+          file_pattern: README.md
+          branch: main
