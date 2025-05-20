@@ -92,7 +92,11 @@
 ## 👀 **Profile Views**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharshihecker&color=blueviolet&style=flat" alt="tharshihecker" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=tharshihecker&color=blueviolet&style=flat" 
+    alt="tharshihecker" 
+    style="width:180px; height:auto;"
+  />
 </p>
 
 ---
