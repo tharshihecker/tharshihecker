@@ -1,19 +1,20 @@
 <h1 align="center">Hi there, I'm <span style="color:#ff6600">tharshihecker</span>! 👋</h1>
-<h3 align="center">🚀 Passionate Developer | 🎨 UI Designer | 💡 Tech Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | 💻 Coding Enthusiast | 📊 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Android+UI+Designer;Tech+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Science+Learner;Python+Coder;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
 
 ---
 
-## 🛩 **Interested in Coding** 😁  
-## 📚 **Still Studying...** 😄  
-## ⚡ **Fun Fact: I am a Noob 😌**  
-## 💭 **Currently Trying to Conquer the World of Code, One Bug at a Time** 🐛  
-## 🎮 **Hobbies Include: Coding, Coffee, and Avoiding Social Interactions** ☕  
-## 🏅 **Still Waiting for My First "Hello World" in Space** 🌌  
-## 🤖 **On a Mission to Break Things and Fix Them** 🔨
+## 🛩 Passionate About Coding & Data Science 😁
+## 📚 Still Studying... 😄  
+## ⚡ Fun Fact: I am a Noob 😌  
+## 💭 Currently Diving Deep into Data Science & Machine Learning 😄 
+## 🎮 Hobbies Include: Coding, Coffee, and Avoiding Social Interactions☕  
+## 🏅 Still Waiting for My First "Hello World" in Space 🌌  
+## 🤖 On a Mission to Break Things and Fix Them 🔨
 
 ---
 
