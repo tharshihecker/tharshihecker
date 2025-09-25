@@ -5,16 +5,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Science+Learner;Python+Coder;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-
 ---
 
-## 🛩 Passionate About Coding & Data Science 😁
+## 🛩 Passionate About Coding & Data Science 😁  
 ## 📚 Still Studying... 😄  
 ## ⚡ Fun Fact: I am a Noob 😌  
-## 💭 Currently Diving Deep into Data Science & Machine Learning 😄 
-## 🎮 Hobbies Include: Coding, Coffee, and Avoiding Social Interactions☕  
+## 💭 Currently Diving Deep into Data Science & Machine Learning 😄  
+## 🎮 Hobbies Include: Coding, Coffee, and Avoiding Social Interactions ☕  
 ## 🏅 Still Waiting for My First "Hello World" in Space 🌌  
-## 🤖 On a Mission to Break Things and Fix Them 🔨
+## 🤖 On a Mission to Break Things and Fix Them 🔨  
 
 ---
 
@@ -46,8 +45,24 @@
 
 ---
 
+## 📊 GitHub Stats
 
-## 🏆 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharshihecker&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharshihecker&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💡 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharshihecker&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tharshihecker&theme=radical&no-bg=true&no-frame=true&column=4" />
@@ -55,16 +70,24 @@
 
 ---
 
-## 📈 **Contribution Graph**
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharshihecker&theme=radical" />
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/tharshihecker/tharshihecker/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 
 ---
 
-## 📜 **Quote of the Day**
+
+## 📜 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -72,18 +95,15 @@
 
 ---
 
-
-
-## ✨ **Connect with Me**
+## ✨ Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharshihecker)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharshidev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tharshihecker)
 
-
 ---
 
-### 🎉 **Thanks for Visiting!**
+### 🎉 Thanks for Visiting!
 
 <p align="center">
   <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="500px">
