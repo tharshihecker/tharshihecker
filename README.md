@@ -78,13 +78,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://github.com/tharshihecker/tharshihecker/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
-
----
 
 
 ## 📜 Quote of the Day
