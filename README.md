@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharshihecker&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharshihecker&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharshihecker&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tharshihecker&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -57,7 +57,7 @@
 ## 💡 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharshihecker&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharshihecker&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=445" />
 </div>
 
 ---
@@ -65,7 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharshihecker&theme=radical&no-bg=true&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tharshihecker&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -73,13 +73,10 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharshihecker&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharshihecker&theme=radical&hide_border=true" />
 </div>
 
 ---
-
-
-
 
 ## 📜 Quote of the Day
 
